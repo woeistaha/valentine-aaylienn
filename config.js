@@ -25,10 +25,10 @@ const CONFIG = {
             text: "You definitely like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you and I missed you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much did you miss me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "zara aur pyaar krein come on! 🚀💝",              // Shows when they go past 1000%
+        normal: "bs itna hi ?! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest lad in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a hug that you 100% need and a long asf kiss (we used to have)!",
+        message: "i've missed you sm, need to kiss on your forehead and assure you that I yearn your you always.",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
