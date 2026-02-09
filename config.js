@@ -43,13 +43,13 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "zara aur pyaar krein come on! 🚀💝",              // Shows when they go past 1000%
-        normal: "bs itna hi ?! 🥰"                           // Shows when they go past 100%
+        high: "ZARA AUR pyaar karein come on! 🚀💝",              // Shows when they go past 1000%
+        normal: "BS ITNA HII ?! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest lad in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest lad in the world MWAHH! 🎉💝💖💝💓",
         message: "i've missed you sm, need to kiss on your forehead and assure you that I yearn your you always.",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
