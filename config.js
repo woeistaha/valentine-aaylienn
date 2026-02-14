@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Aayzizi",
+    valentineName: "Areeshu",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you and I missed you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much did you miss me?",                          // For the love meter
+            text: "How much do you miss me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
